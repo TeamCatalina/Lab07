@@ -1,2 +1,0 @@
-// To get the latest commit id use:
-git rev-parse --short HEAD
